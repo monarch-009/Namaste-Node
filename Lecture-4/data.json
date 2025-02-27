@@ -1,0 +1,6 @@
+{
+    "name" : "Aditya Singh",
+    "age" : 21,
+    "college" : "IIIT Allahabad",
+    "courses" : ["DSA", "DBMS", "OS", "CN"]
+}
